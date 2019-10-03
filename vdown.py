@@ -54,7 +54,7 @@ def download_video_series(video_links):
           
         print "%s downloaded!\n"%file_name 
   
-    print "All videos downloaded!"
+    print "All videos are downloaded!"
     return
   
   
