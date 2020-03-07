@@ -1,4 +1,3 @@
-"code by Jatin Pandya"
 import requests 
 from bs4 import BeautifulSoup 
   
